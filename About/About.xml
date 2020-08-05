@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Simply More Fine Carpets</name>
+  <author>ToddEStan</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <displayName>Royalty</displayName>
+      <packageId>Ludeon.RimWorld.Royalty</packageId>
+    </li>
+  </modDependencies>
+  <packageId>ToddEStan.SimplyMoreFineCarpets</packageId>
+  <description>
+      This mod simply adds more fine carpets to the game.
+
+      These new fine carpets maintain the vanilla game balance.  They cost the same amount of resources, have the same amount of beauty, and fulfill the same requirements as the other vanilla fine floorings for titled colonists.
+
+      New colors added:
+        Red
+        Gold
+        Ivory
+        Midnight Blue
+        Purple
+
+      Mod compatibility:
+        This extends the CarpetFineBase in the Royalty DLC, and therefore requires the Royalty DLC.  Otherwise, this mod should be compatible with most anything.
+
+      This mod is safe to add to an existing save game.  If you want to remove this mod from an existing save, you'll first have to remove the new fine carpets from the map.
+  </description>
+</ModMetaData>

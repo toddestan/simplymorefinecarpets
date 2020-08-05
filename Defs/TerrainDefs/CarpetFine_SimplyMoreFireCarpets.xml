@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFinePurple</defName>
+    <label>fine purple carpet</label>
+    <description>A royal purple carpet, made from imperial dyes.</description>
+    <color>(102,2,60)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFineMidnightBlue</defName>
+    <label>fine midnight blue carpet</label>
+    <description>A luxurious midnight blue carpet, as beautiful as the night sky.</description>
+    <color>(25,25,112)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFineRed</defName>
+    <label>fine red carpet</label>
+    <description>A vermilion red carpet, suitable for kings and queens.</description>
+    <color>(182,53,42)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFineGold</defName>
+    <label>fine gold carpet</label>
+    <description>A fine golden carpet, almost as nice as the real thing.</description>
+    <color>(255,215,0)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFineIvory</defName>
+    <label>fine ivory carpet</label>
+    <description>An expensive ivory carpet, that looks good in any throne room.</description>
+    <color>(204,204,192)</color>
+  </TerrainDef>
+</Defs>
