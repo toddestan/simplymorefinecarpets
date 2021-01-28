@@ -30,4 +30,16 @@
     <description>An expensive ivory carpet, that looks good in any throne room.</description>
     <color>(204,204,192)</color>
   </TerrainDef>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFineEmerald</defName>
+    <label>fine emerald carpet</label>
+    <description>An exquisite emerald carpet, with the beauty of a fine gem.</description>
+    <color>(80,200,120)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="CarpetFineBase">
+    <defName>SMFC_CarpetFineGrey</defName>
+    <label>fine grey carpet</label>
+    <description>An plush grey carpet, with the look of imported stone.</description>
+    <color>(75,92,101)</color>
+  </TerrainDef>
 </Defs>
